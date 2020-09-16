@@ -17,5 +17,5 @@ def link
 end
 
 def all_phrases
-  puts 
+  puts #{$all_phrases}
 end
