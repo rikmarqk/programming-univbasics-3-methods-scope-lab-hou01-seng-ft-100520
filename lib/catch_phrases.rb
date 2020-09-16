@@ -1,4 +1,4 @@
-$all_phrases = 
+$all_phrases = #{phrase1} + #
 
 def mario
   status = "Thank You Mario! But Our Princess Is In Another Castle!"
