@@ -2,8 +2,8 @@ $all_phrases =
 
 def mario
   status = "Thank You Mario! But Our Princess Is In Another Castle!"
-  phrase = "It's-a me, Mario!"
-  puts phrase
+  phrase1 = "It's-a me, Mario!"
+  puts phrase1
 end
 
 def toadstool
@@ -12,8 +12,8 @@ def toadstool
 end
 
 def link
-  phrase = "It's Dangerous To Go Alone! Take This."
-  puts phrase
+  phrase2 = "It's Dangerous To Go Alone! Take This."
+  puts phrase2
 end
 
 def all_phrases
