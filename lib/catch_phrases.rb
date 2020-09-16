@@ -1,4 +1,4 @@
-$all_phrases = phrase
+all_phrases = phrase
 
 def mario
   status = "Thank You Mario! But Our Princess Is In Another Castle!"
@@ -17,5 +17,5 @@ def link
 end
 
 def all_phrases
-  puts "#{$all_phrases}"
+  puts "all_phrases"
 end
